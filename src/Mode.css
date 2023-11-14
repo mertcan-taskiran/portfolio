@@ -1,0 +1,24 @@
+#icon-btn {
+    background-color: transparent;
+    border: none;
+}
+
+.fa-sun {
+    color: #fff;
+}
+
+.navbar-light {
+  background-color: #EDF2F7;
+}
+
+.navbar-dark {
+  background-color: #171923;
+}
+
+.night-color-black {
+    color: #fff;
+}
+
+.light-color-black {
+    color: #000;
+}
